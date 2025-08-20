@@ -1,0 +1,6 @@
+{
+  "cloudflare_catfordgreen": {
+    "TYPE": "CLOUDFLAREAPI",
+    "apitoken": "$CLOUDFLARE_API_TOKEN"
+  }
+}
